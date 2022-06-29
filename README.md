@@ -30,6 +30,7 @@
 + [HTML5]
 + [CSS3]
 + [Javascript]
++ [Python]
 + [jQuery]
 + [React]
 + [NodeJs]
