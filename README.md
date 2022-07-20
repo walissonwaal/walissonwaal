@@ -34,8 +34,8 @@
 + [jQuery]
 + [React]
 + [NodeJs]
++ [MySQL]
 + [MongoDB]
-+ [SQLServer]
 + [Git]
 + [Visual Studio Code]
 
