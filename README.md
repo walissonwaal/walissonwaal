@@ -1,7 +1,7 @@
 ## Olá, sou Walisson Gomes.
 
 + Análise e Desenvolvimento de Sistemas | UNOPAR 🎓
-+ Desenvolvedor Frontend 💻
++ Freelance Development 💻
 
 <div align="center" display="inline_block">
   <a href="https://github.com/walissonwaal">
@@ -33,6 +33,7 @@
 + [Python]
 + [jQuery]
 + [React]
++ [React-Native]
 + [NodeJs]
 + [MySQL]
 + [MongoDB]
