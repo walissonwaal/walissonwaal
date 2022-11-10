@@ -3,6 +3,7 @@
 + Análise e Desenvolvimento de Sistemas | UNOPAR 🎓
 + Freelance Development 💻
 + https://portfolio-walissonwaal.vercel.app/
++ https://www.linkedin.com/in/walisson-gomes-18647b160/
 
 <div align="center" display="inline_block">
   <a href="https://github.com/walissonwaal">
