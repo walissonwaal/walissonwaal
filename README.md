@@ -1,4 +1,4 @@
-## Olá, sou Walisson Gomes.
+## Olá, sou Walisson ;)
 
 + Análise e Desenvolvimento de Sistemas | UNOPAR 🎓
 + Freelance Development 💻
