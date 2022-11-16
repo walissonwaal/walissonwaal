@@ -30,6 +30,7 @@
 
 + [HTML5]
 + [CSS3]
++ [Bootstrap]
 + [Javascript]
 + [Python]
 + [jQuery]
