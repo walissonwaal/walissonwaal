@@ -3,7 +3,7 @@
 + Análise e Desenvolvimento de Sistemas | UNOPAR 🎓
 + Freelance Development 💻
 + Atualmente estudando Python para Data Science.
-+ https://portfolio-walissonwaal.vercel.app/
++ www.walissongomes.com
 
 ##
 
