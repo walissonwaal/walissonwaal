@@ -40,6 +40,7 @@
 + [NodeJs]
 + [MySQL]
 + [MongoDB]
++ [Firebase]
 + [Git]
 + [Visual Studio Code]
 
