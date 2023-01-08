@@ -31,11 +31,12 @@
 
 + [HTML5]
 + [CSS3]
++ [SASS]
 + [Bootstrap]
 + [Javascript]
 + [Python]
 + [jQuery]
-+ [React]
++ [ReactJS | NextJS]
 + [React-Native]
 + [NodeJs]
 + [MySQL]
