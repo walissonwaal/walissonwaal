@@ -1,8 +1,9 @@
 ## Olá, sou Walisson!
 
 + Análise e Desenvolvimento de Sistemas | UNOPAR 🎓
-+ Freelance Development 💻
 + Atualmente estudando Python para Data Science.
++ Freelance Development 💻
+
 + www.walissongomes.com
 
 ##
