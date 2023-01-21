@@ -1,7 +1,7 @@
 ## Olá, sou Walisson!
 
 + Análise e Desenvolvimento de Sistemas | UNOPAR 🎓
-+ Atualmente estudando Python para Data Science.
++ Atualmente estudando Python.
 + Freelance Development 💻
 
 + www.walissongomes.com
@@ -33,9 +33,9 @@
 + [HTML5]
 + [CSS3]
 + [SASS]
++ [TailwindCSS]
 + [Bootstrap]
 + [Javascript]
-+ [Python]
 + [jQuery]
 + [ReactJS | NextJS]
 + [React-Native]
