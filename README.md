@@ -1,10 +1,8 @@
 ## Olá, sou Walisson!
 
 + Análise e Desenvolvimento de Sistemas | UNOPAR 🎓
-+ Atualmente estudando Python.
++ Atualmente estudando Typescript
 + Freelance Development 💻
-
-+ www.walissongomes.com
 
 ##
 
