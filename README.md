@@ -1,7 +1,7 @@
 ## Olá, sou Walisson!
 
 + Análise e Desenvolvimento de Sistemas | UNOPAR 🎓
-+ Atualmente estudando Typescript
++ Atualmente estudando Typescript e Express
 + Freelance Development 💻
 
 ##
