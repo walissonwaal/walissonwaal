@@ -2,7 +2,9 @@
 
 + Análise e Desenvolvimento de Sistemas | UNOPAR 🎓
 + Atualmente estudando Typescript
-+ Freelance Development 💻
++ Desenvolvedor Web Front-End 💻
+
+www.walissongomes.com
 
 ##
 
