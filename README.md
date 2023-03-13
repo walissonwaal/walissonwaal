@@ -4,7 +4,7 @@
 + Atualmente estudando Typescript
 + Desenvolvedor Web Front-End 💻
 
-www.walissongomes.com
+Acesse: www.walissongomes.com
 
 ##
 
