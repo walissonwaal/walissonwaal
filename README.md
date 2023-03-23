@@ -42,6 +42,7 @@ Acesse: www.walissongomes.com
 + [MySQL]
 + [MongoDB]
 + [Firebase]
++ [Sanity.io]
 + [Git]
 + [Visual Studio Code]
 
