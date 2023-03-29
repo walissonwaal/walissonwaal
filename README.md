@@ -35,16 +35,12 @@ Acesse: www.walissongomes.com
 + [TailwindCSS]
 + [Bootstrap]
 + [Javascript]
-+ [jQuery]
 + [ReactJS | NextJS]
-+ [React-Native]
 + [NodeJs]
-+ [MySQL]
 + [MongoDB]
 + [Firebase]
 + [Sanity.io]
 + [Git]
-+ [Visual Studio Code]
 
 ##
 
