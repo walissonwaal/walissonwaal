@@ -1,8 +1,9 @@
 ## Olá, sou Walisson!
+###Front-End Web Developer
 
-+ Análise e Desenvolvimento de Sistemas | UNOPAR 🎓
-+ Atualmente estudando Python (Django) e Typescript.
-+ Atuando como Desenvolvedor Web Front-End 💻
++ 🎓 Análise e Desenvolvimento de Sistemas
++ 📚 Atualmente estudando Python (Django) e Typescript
++ 💻 Atuando como Desenvolvedor Web Front-End
 
 Acesse: www.walissongomes.com
 
