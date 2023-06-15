@@ -39,6 +39,7 @@ Acesse: www.walissongomes.com
 + [ReactJS | NextJS]
 + [NodeJs]
 + [MongoDB]
++ [PostgreSQL]
 + [Firebase]
 + [Sanity.io]
 + [Git]
