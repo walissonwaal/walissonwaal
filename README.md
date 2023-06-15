@@ -1,5 +1,5 @@
 ## Olá, sou Walisson!
-##### Front-End Web Developer
+##### Full-Stack Web Developer
 
 + 🎓 Analista de Sistemas
 + 📚 Atualmente estudando Python (Django) e Typescript
