@@ -28,23 +28,31 @@ Acesse: www.walissongomes.com
   <img align="center" alt="Walisson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-## Tecnologias e Ferramentas
+▪︎ Portfólio: https://www.walissongomes.com
 
-+ [HTML5]
-+ [CSS3]
-+ [SASS]
-+ [TailwindCSS]
-+ [Bootstrap]
-+ [Javascript]
-+ [ReactJS | NextJS]
-+ [NodeJs]
-+ [MongoDB]
-+ [PostgreSQL]
-+ [Firebase]
-+ [Sanity.io]
-+ [Git]
+Desenvolvedor Web Full-Stack com formação em Análise e Desenvolvimento de Sistemas. 
 
-##
+Um dos meus objetivos é contribuir com meu conhecimento em desenvolvimento Web e Mobile para fornecer soluções eficazes. Tenho experiência em tecnologias como:
+
+• Backend: NodeJs + Express, API Rest, JWT.
+
+• Frontend: ReactJS + NextJS, Bootstrap, SASS, TailwindCSS, Git, Integração e consumo de APIs REST. (Capacidade de converter de forma fiel o design para o código).
+
+• Banco de dados: MongoDB, SQLite 3, SQL Server, MySQL, PostgreSQL.
+
+• Scrum Foundation Professional Certificate SFPC (v2020)
+
+• Package Criatividade instalado.
+• Package de espírito Inovador(a) instalado.
+• Package Trabalho em equipe instalado.
+• Package de Interesse em desenvolvimento ágil instalado.
+• Capacidade de desbloquear novas skills com a experiencia adquirida. #KeepLearning
+
+Além das habilidades em tecnologia, também posso acrescentar que gosto de ouvir música e tenho como hobby tocar e estudar vários instrumentos musicais. A música é uma grande paixão minha e acredito que isso também me ajuda a manter a criatividade e a produtividade em alta quando estou trabalhando em projetos de desenvolvimento.
+
+Sou um profissional adaptável e orientado a uma forte ética de trabalho e motivação para prosperar em um ambiente baseado em equipe ou individualmente motivado.
+
+Por favor, sinta-se à vontade para entrar em contato comigo.
 
 <!-- ## Contate-me pelo LinkedIn
 
