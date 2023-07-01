@@ -28,9 +28,10 @@ Acesse: www.walissongomes.com
   <img align="center" alt="Walisson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-▪︎ Portfólio: https://www.walissongomes.com
 
-Desenvolvedor Web Full-Stack com formação em Análise e Desenvolvimento de Sistemas. 
++ Portfólio: https://www.walissongomes.com
+
+#### Sou Desenvolvedor Web Full-Stack com formação em Análise e Desenvolvimento de Sistemas. 
 
 Um dos meus objetivos é contribuir com meu conhecimento em desenvolvimento Web e Mobile para fornecer soluções eficazes. Tenho experiência em tecnologias como:
 
