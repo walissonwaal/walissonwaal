@@ -2,8 +2,8 @@
 ##### Full-Stack Web Developer
 
 + 🎓 Analista de Sistemas
-+ 📚 Atualmente estudando Python (Django) e Typescript
-+ 💻 Atuando como Desenvolvedor Web
++ 📚 Estudando Angular e NestJS
++ 💻 Atuando como Desenvolvedor Web Fullstack
 
 Acesse: www.walissongomes.com
 
