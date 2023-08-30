@@ -1,60 +1,111 @@
-## Olá, sou Walisson!
-##### Full-Stack Web Developer
 
-+ 🎓 Analista de Sistemas
-+ 📚 Estudando Angular e NestJS
-+ 💻 Atuando como Desenvolvedor Web Fullstack
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Acesse: www.walissongomes.com
-
-##
-
-<div> 
-  <a href="https://www.linkedin.com/in/walisson-gomes-18647b160" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-##
-
-<div align="center" display="inline_block">
-  <a href="https://github.com/walissonwaal">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=walissonwaal&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=000000"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walissonwaal&layout=compact&langs_count=7&theme=dark&bg_color=000000"/>
-</div>
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Walisson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-	<img align="center" alt="Walisson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Walisson-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Walisson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Walisson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <h1 align="center"><b>Hi , I'm Walisson Gomes </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+  </ul>
 </div>
 
 
-+ Portfólio: https://www.walissongomes.com
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
-#### Sou Desenvolvedor Web Full-Stack com formação em Análise e Desenvolvimento de Sistemas. 
 
-Um dos meus objetivos é contribuir com meu conhecimento em desenvolvimento Web e Mobile para fornecer soluções eficazes. Tenho experiência em tecnologias como:
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+  </ul>
+</div>
 
-• Backend: NodeJs + Express, API Rest, JWT.
 
-• Frontend: ReactJS + NextJS, Bootstrap, SASS, TailwindCSS, Git, Integração e consumo de APIs REST. (Capacidade de converter de forma fiel o design para o código).
+<!--Intro start-->
+- 🔭 I’m currently working on **React, NextJS, React Native, Nodejs, MongoDB, MySQL**
 
-• Banco de dados: MongoDB, SQLite 3, SQL Server, MySQL, PostgreSQL.
+- 🌱 I'm currently studying **English** and improving myself in **backend**
 
-• Scrum Foundation Professional Certificate SFPC (v2020)
+- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
-• Package Criatividade instalado.
-• Package de espírito Inovador(a) instalado.
-• Package Trabalho em equipe instalado.
-• Package de Interesse em desenvolvimento ágil instalado.
-• Capacidade de desbloquear novas skills com a experiencia adquirida. #KeepLearning
+- 💬 Ask me about **React**
 
-Além das habilidades em tecnologia, também posso acrescentar que gosto de ouvir música e tenho como hobby tocar e estudar vários instrumentos musicais. A música é uma grande paixão minha e acredito que isso também me ajuda a manter a criatividade e a produtividade em alta quando estou trabalhando em projetos de desenvolvimento.
+- 📫 Feel free to reach me out **contato@walissongomes.com**
+<!--Intro end-->
 
-Sou um profissional adaptável e orientado a uma forte ética de trabalho e motivação para prosperar em um ambiente baseado em equipe ou individualmente motivado.
 
-Por favor, sinta-se à vontade para entrar em contato comigo.
 
-<!-- ## Contate-me pelo LinkedIn
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=walissonwaal&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=walissonwaal&theme=dark&hide_border=false" /> 
+</td>
 
-+ <a href="https://www.linkedin.com/in/walisson-gomes-18647b160" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  -->
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=walissonwaal&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=walissonwaal&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
+
+
+</p>        
+<!--- stats (end) -->
+
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,css,discord,docker,express,figma,firebase,github,html,js,linux,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+  </a>
+</p>
+
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/walisson-gomes-18647b160/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.instagram.com/devwalisson/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+  
+</p>
+
+
+<!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=walissonwaal&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
+  
+</div>
