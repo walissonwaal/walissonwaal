@@ -18,7 +18,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **React, NextJS, React Native, Nodejs, MongoDB, MySQL**
+- 🔭 I’m currently working on **React, NextJS, Java, Nodejs, MongoDB, PostgreSQL**
 
 - 🌱 I'm currently studying **English** and improving myself in **backend**
 
