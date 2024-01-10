@@ -18,15 +18,15 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **React, NextJS, Java, Nodejs, MongoDB, PostgreSQL**
+- 🔭 I’m currently working on **Java, Liferay DXP, JSP, Freemarker, PostgreSQL and MySQL**
 
-- 🌱 I'm currently studying **English** and improving myself in **backend**
+- 🌱 I'm currently studying **English** and **Spring Boot**
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
 - 💬 Ask me about **React**
 
-- 📫 Feel free to reach me out **contato@walissongomes.com**
+- 📫 Feel free to reach me out **walissonwaal@gmail.com**
 <!--Intro end-->
 
 
