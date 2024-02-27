@@ -18,13 +18,13 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Java, Liferay DXP, JSP, Freemarker, PostgreSQL and MySQL**
+- 🔭 I’m currently working on **Nextjs, Nodejs, Sanity.io, Docker, Figma and MySQL**
 
-- 🌱 I'm currently studying **English** and **Spring Boot**
+- 🌱 I'm currently studying **English** and **Microservices**
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Web Development**
 
 - 📫 Feel free to reach me out **walissonwaal@gmail.com**
 <!--Intro end-->
