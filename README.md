@@ -18,7 +18,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Nextjs, Nodejs, Sanity.io, Docker, Figma and MySQL**
+- 🔭 I’m currently working on **Reactjs, Nodejs, Fastify, Prisma, Sanity.io, Docker, Figma and MySQL**
 
 - 🌱 I'm currently studying **English** and **Microservices**
 
