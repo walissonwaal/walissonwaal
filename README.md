@@ -18,7 +18,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Reactjs, Nodejs, Fastify, Prisma, Sanity.io, Docker, Figma and MySQL**
+- 🔭 I'm currently working as a Fullstack Developer at inpaco.co and on a personal SaaS Multi-Tenant project
 
 - 🌱 I'm currently studying **English** and **Microservices**
 
