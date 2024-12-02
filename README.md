@@ -10,11 +10,11 @@
 </div>
 
 <!--Intro start-->
-- 🔭 I'm currently working as a Fullstack Developer at inpaco.co and on a personal SaaS Multi-Tenant project
+- 🔭 I'm currently working as a Fullstack Developer at @Bemobi and on a personal SaaS project
 
-- 🌱 I'm currently studying **English** and **Microservices**
+- 🌱 I'm currently studying **English** and **AWS**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ I've keen interest in cloud computing. So,I'm learning **.NET**
 
 - 💬 Ask me about **Web Development**
 
