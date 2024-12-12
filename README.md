@@ -10,7 +10,7 @@
 </div>
 
 <!--Intro start-->
-- 🔭 I'm currently working as a Fullstack Developer at @Bemobi and on a personal SaaS project
+- 🔭 I'm currently working as a Software Engineer at @Bemobi for ISPs and on a personal SaaS project
 
 - 🌱 I'm currently studying **English** and **AWS**
 
